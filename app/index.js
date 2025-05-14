@@ -1,3 +1,6 @@
-(function name(params) {
-    console.log("hello world");
+require("dotenv/config")
+
+
+(function name() {
+    console.log("hello world", process.env);
 })()
