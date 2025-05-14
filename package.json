@@ -1,0 +1,20 @@
+{
+  "name": "lessonone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "dev": "nodemon app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HAR003/lessonOne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HAR003/lessonOne/issues"
+  },
+  "homepage": "https://github.com/HAR003/lessonOne#readme"
+}
